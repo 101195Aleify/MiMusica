@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiMusica/static/css/main.24e78677.css",
+    "main.js": "/MiMusica/static/js/main.68e67a85.js",
+    "static/js/453.1290a5d6.chunk.js": "/MiMusica/static/js/453.1290a5d6.chunk.js",
+    "index.html": "/MiMusica/index.html",
+    "main.24e78677.css.map": "/MiMusica/static/css/main.24e78677.css.map",
+    "main.68e67a85.js.map": "/MiMusica/static/js/main.68e67a85.js.map",
+    "453.1290a5d6.chunk.js.map": "/MiMusica/static/js/453.1290a5d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e78677.css",
+    "static/js/main.68e67a85.js"
+  ]
+}
