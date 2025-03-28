@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+header {
+  background-color: #1a1a1a;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.player {
+  text-align: center;
+  margin: 20px 0;
+}
+audio {
+  width: 100%;
+  max-width: 400px;
+}
+.bio, .contact {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #1a1a1a;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+button {
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #cc0000;
+}
